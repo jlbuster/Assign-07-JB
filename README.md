@@ -1,10 +1,11 @@
-# Assign-07-JB
-Carleton Coding Bootcamp - Updated Portfolio
+# Bootcamp Portfolio
 
-This is my updated portfolio containing everything you need to know about me!
+## Details
+This application was created to showcase my projects as well as give all necessary information for one to contact me.
+This application displays a screenshot of each of my exemplary homework assignments. Along with this image, this portfolio also includes a brief description and links to the github repo, and the deployed application.
 
-Feel free to contact me through any of the methods provided throughout my portfolio.
+## Technologies
+Simple application that runs on html and css.
 
-This portfolio contains mostly html, as well as a little bit of css.
-
+## Link to Portfolio
 Github Pages :  https://jlbuster.github.io/Assign-07-JB/
