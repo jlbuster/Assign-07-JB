@@ -5,3 +5,13 @@
 .social {
     margin-right: 30px;
 }
+
+.proButton1 {
+    float: left;
+    margin-left: 25px;
+}
+
+.proButton2 {
+    float: right;
+    margin-right: 5px;
+}
